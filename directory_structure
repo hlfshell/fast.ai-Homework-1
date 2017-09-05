@@ -1,0 +1,11 @@
+.
+├── test
+│   └── unknown
+├── train
+│   ├── cats
+│   └── dogs
+└── valid
+    ├── cats
+    └── dogs
+
+8 directories
